@@ -1,0 +1,13 @@
+---
+title: "index"
+format: html
+editor: visual
+---
+
+## Welcome to my website!
+
+Florida Census Data:
+
+News Article: Linked is a News Article I wrote my Sophomore year about how Covid-19 affected the busing system, the vex, here on campus
+
+Personal Essay: This is an essay I wrote Junior year relating a movie titled The Battle of Algiers to the concepts we had learned in my Nationalism class
